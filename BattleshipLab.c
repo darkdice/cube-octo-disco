@@ -1,4 +1,4 @@
-/* David D'Amico - CSI 333 - Battleship program
+/* David D - CSI 333 - Battleship program
 This program is designed to play the game, Battleship by a game board of
 size 10x10. Each game has random ship placements and the user
 must input grid references to hit and sink the ships */
